@@ -40,8 +40,6 @@ Currently working on a [**voxel engine**](https://github.com/gaspardquentin/voxe
 **GIS** · PyQGIS  
 **Tools** · Git · CMake · Maven · Linux · LaTeX
 
-## GitHub Stats
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gaspardquentin&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
