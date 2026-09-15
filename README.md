@@ -43,8 +43,8 @@ Currently working on a [**voxel engine**](https://github.com/gaspardquentin/voxe
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaspardquentin&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspardquentin&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=gaspardquentin&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gaspardquentin&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ## Contact
