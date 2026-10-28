@@ -13,7 +13,6 @@ Currently working on a [**voxel engine**](https://github.com/gaspardquentin/voxe
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**Voxel Engine**](https://github.com/gaspardquentin/voxel_engine) | C++17, OpenGL, GLFW, GLM, CMake | Modular voxel engine with client/server networking, dynamic chunk generation, `.obj` parser, and binary world compression |
-| [**Sport App**](https://github.com/gaspardquentin/sport_app_backend) | TypeScript, Express, Drizzle ORM + Flutter | Full-stack sport tracking app — REST API backend with training programs, sessions & goals *(WIP)* |
 | [**OFNI Website**](https://github.com/AntoineCuinet/website-ofni-association) | PHP, Symfony, MySQL, SASS | Student association website with online store & events — live at [ofni.asso.fr](https://ofni.asso.fr) |
 | [**PYCHESS**](https://github.com/gaspardquentin/PYCHESS) | Python | **1st Prize** — NSI Trophies, Burgundy-Franche-Comté region |
 
