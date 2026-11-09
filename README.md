@@ -13,10 +13,12 @@ Currently working on a [**voxel engine**](https://github.com/gaspardquentin/voxe
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**Voxel Engine**](https://github.com/gaspardquentin/voxel_engine) | C++17, OpenGL, GLFW, GLM, CMake | Modular voxel engine with client/server networking, dynamic chunk generation, `.obj` parser, and binary world compression |
-| [**OFNI Website**](https://github.com/AntoineCuinet/website-ofni-association) | PHP, Symfony, MySQL, SASS | Student association website with online store & events — live at [ofni.asso.fr](https://ofni.asso.fr) |
-| [**PYCHESS**](https://github.com/gaspardquentin/PYCHESS) | Python | **1st Prize** — NSI Trophies, Burgundy-Franche-Comté region |
+| [**MiniJaja**](https://github.com/gaspardquentin/miniJaja) | Java, ANTLR, Maven, JavaFX | Compiler and interpreters for miniJaja custom programming language (subset of Java) |
+| [**OFNI Website**](https://github.com/AntoineCuinet/website-ofni-association) | PHP, Symfony, MySQL, SASS | Student association website — live at [ofni.asso.fr](https://ofni.asso.fr) |
+| [**african Tarot**](https://github.com/gaspardquentin/african_tarot)| Flutter, Dart | African tarot game application |
+| [**PYCHESS**](https://github.com/gaspardquentin/PYCHESS) | Python, PyGame | **1st Prize** — NSI Trophies, Burgundy-Franche-Comté region |
 
-> *Some projects (Compiler & VM — MiniJaja, GraphShare, CUDA simulations) live on academic GitLab instances. Feel free to [email me](mailto:gaspard.quentin1905@gmail.com) for links or access.*
+> *Some projects (GraphShare, CUDA simulations) live on academic GitLab instances. Feel free to [email me](mailto:gaspard.quentin1905@gmail.com) for links or access.*
 
 ## Experience
 
